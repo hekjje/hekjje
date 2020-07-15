@@ -1,6 +1,6 @@
 ### Hi there - How is your code running?
 
-![](20160721_143623.gif)
+![](https://github.com/hekjje/hekjje/blob/master/20160721_143623.gif)
 
 <!--
 **hekjje/hekjje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
